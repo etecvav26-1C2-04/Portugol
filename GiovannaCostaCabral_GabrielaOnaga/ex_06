@@ -19,3 +19,5 @@ programa
 		peso_gramas = peso_kilos*1000
 
 		escreva("Essa pessoa pesa ", peso_gramas, " gramas.")
+     {
+{
