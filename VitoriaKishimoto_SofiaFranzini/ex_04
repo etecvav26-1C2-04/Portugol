@@ -1,0 +1,41 @@
+/* Autor: Vitória Kishimoto e Sofia Franzini
+ * Data:12/03/2026
+ * Exercício: Ler 4 notas, calcular a média ponderada com os pesos 1, 2, 3 e 4
+respectivamente e exibir as notas e o resultado da média.
+ */
+programa
+{
+	
+	funcao inicio()
+	{ real n1, n2, n3, n4, media,p1= 1, p2=2, p3=3, p4=4
+
+	escreva ("digite a nota 1: ") 
+	leia (n1) 
+	limpa ()
+
+	escreva ("digite a nota 2: ")
+	leia (n2)
+	limpa ()
+
+	escreva ("digite a nota 3: ")
+	leia (n3)
+	limpa ()
+
+	escreva ("digite a nota 4: ")
+	leia (n4)
+	limpa ()
+
+     media = (n1*p1) + (n2*p2) + (n3*p3) + (n4*p4) / p1+ p2+ p3+ p4
+
+     escreva ("Nota 1: ", n1)
+
+     escreva ("\nNota 2: ", n2)
+
+     escreva ("\nNota 3: ", n3)
+   
+     escreva ("\nNota 4: ", n4)
+    
+     escreva ("\nO resultado das médias das notas é de: ", media)
+		 
+	}
+}
