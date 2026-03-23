@@ -30,9 +30,46 @@ Ou seja, é a forma de colocar a lógica em prática.
 ## Problema
 - Um programa deve receber três números e mostrar qual deles é o maior.
 ## Algoritmo em linguagem natural 
+Ler três números informados pelo usuário.
+Comparar os três valores.
+identificar qual deles é o maior.
+Exibir o maior valor na tela.
 
 ## Representar esse algoritmo em Portugol.
+programa {
+  funcao inicio() {
 
+  inteiro a
+  inteiro b
+  inteiro c
+  inteiro maior
+   
+      escreva("Digite o primeiro número: ")
+      leia(a) 
+
+      escreva("Digite o segundo número: ")
+      leia(b)
+
+      escreva("Digite o terceiro número ")
+      leia(c)
+
+    maior=a
+
+      se 
+        (b>maior)
+
+          maior=b
+        
+        se 
+        (c>maior) 
+        
+          maior=c
+        
+      escreva("O maior número é: ", maior)
+    
+    }
+  }
+}
 ---
 # Exercício 3
 
