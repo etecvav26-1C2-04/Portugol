@@ -26,6 +26,13 @@ Ou seja, é a forma de colocar a lógica em prática.
 6.Desconectar quando estiver completo
 - É algoritmo porque apresenta uma sequência de passos organizados para atingir um objetivo, que é carregar o celular.
 # Exercício 2
+
+## Problema
+- Um programa deve receber três números e mostrar qual deles é o maior.
+## Algoritmo em linguagem natural 
+
+## Representar esse algoritmo em Portugol.
+
 ---
 # Exercício 3
 
