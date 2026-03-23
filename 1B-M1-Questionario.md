@@ -36,6 +36,7 @@ identificar qual deles é o maior.
 Exibir o maior valor na tela.
 
 ## Representar esse algoritmo em Portugol.
+
 programa {
   funcao inicio() {
 
