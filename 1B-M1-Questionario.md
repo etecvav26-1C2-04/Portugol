@@ -30,11 +30,16 @@ Ou seja, é a forma de colocar a lógica em prática.
 ## Problema
 - Um programa deve receber três números e mostrar qual deles é o maior.
 ## Algoritmo em linguagem natural 
-Ler três números informados pelo usuário.
-Comparar os três valores.
-identificar qual deles é o maior.
-Exibir o maior valor na tela.
-
+1. Início
+2. Pedir ao usuário para digitar o primeiro número.
+3. Pedir ao usuário para digitar o segundo número.
+4. Pedir ao usuário para digitar o terceiro número.
+5. Comparar os três números:
+   -se o primeiro número for maior que os outros dois, então ele é o maior.
+   -se o segundo número for maior que os outros dois, então ele é o maior.
+   -se o terceiro número for maior que os outros dois, então ele é o maior.
+6. Mostrar na tela qual é o maior número.
+7. Fim
 ## Representar esse algoritmo em Portugol.
 ```
 programa {
