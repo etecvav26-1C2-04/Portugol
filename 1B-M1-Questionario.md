@@ -36,14 +36,14 @@ identificar qual deles é o maior.
 Exibir o maior valor na tela.
 
 ## Representar esse algoritmo em Portugol.
+```
+programa {
+  funcao inicio() {
 
-    programa {
-      funcao inicio() {
-
-      inteiro a
-      inteiro b
-      inteiro c
-      inteiro maior
+  inteiro a
+  inteiro b
+  inteiro c
+  inteiro maior
    
       escreva("Digite o primeiro número: ")
       leia(a) 
@@ -61,7 +61,7 @@ Exibir o maior valor na tela.
 
           maior=b
         
-      se 
+        se 
         (c>maior) 
         
           maior=c
@@ -71,7 +71,7 @@ Exibir o maior valor na tela.
     }
   }
 }
-
+```
 ---
 # Exercício 3
 
