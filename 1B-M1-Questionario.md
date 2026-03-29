@@ -108,4 +108,6 @@ programa
 ---
 # Exercício 4
 
+Ferramentas como IDEs, bibliotecas e frameworks são importantes porque aumentam a produtividade, reduzem erros e ajudam a seguir boas práticas no desenvolvimento de software. Elas fornecem funções prontas e testadas, permitindo que o programador se concentre em resolver problemas mais complexos.
 
+Se tudo fosse feito do zero, o desenvolvimento seria muito mais demorado, sujeito a mais erros e difícil de manter. Por exemplo, criar uma aplicação web sem frameworks exigiria construir desde a interface até o banco de dados manualmente, enquanto usar React e Express.js já fornece boa parte dessa estrutura pronta.
