@@ -5,9 +5,24 @@ seja, se a raiz quadrada dele é um número inteiro.
 */ 
 programa
 {
-	funcao inicio()
-	{
-		real numero, raiz
+    inclua biblioteca Matematica --> mat
 
-		escreva ("Digite um número: ")
-		leia (numero)
+    funcao inicio()
+    {
+        real lado
+
+        escreva("Digite o número: ")
+        leia(lado)
+
+        real raiz = mat.raiz(lado, 2.0)
+
+        se (raiz * raiz == lado)
+        {
+            escreva("O número é um quadrado perfeito")
+        }
+        senao
+        {
+            escreva("O número não é um quadrado perfeito")
+        }
+    }
+}
