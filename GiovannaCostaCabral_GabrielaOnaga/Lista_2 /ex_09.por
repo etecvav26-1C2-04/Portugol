@@ -12,16 +12,19 @@ inclua biblioteca Matematica --> mat
 
     funcao inicio()
     {
-        real lado
+        real numero
                 escreva("Digite o número: ")
-                leia(lado)
+                leia(numero)
 
-        real raiz = mat.raiz(lado, 2.0)
+        real raiz = mat.raiz(numero, 2)
 
-                se (raiz * raiz == lado){
-                        escreva("O número é um quadrado perfeito")
-                } senao {
-                        escreva ("O número não é um quadrado perfeito")
+                se (raiz * raiz == numero)
+                {
+                        escreva("O número é um quadrado perfeito.")
+                }
+                
+                senao {
+                        escreva ("O número não é um quadrado perfeito.")
                 }
 
     }
