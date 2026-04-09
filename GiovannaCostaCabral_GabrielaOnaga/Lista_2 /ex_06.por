@@ -1,5 +1,5 @@
 /*
-Data: 02/04/2026
+Data: 09/04/2026
 Autores: Gabriela Onaga e Giovanna Costa
 Descrição: Ler a idade do passageiro. Determinar o preço de uma passagem de
 acordo com a idade do passageiro: até 2 anos (gratuita), de 3 a 12 anos
@@ -14,17 +14,17 @@ programa
 		inteiro idade
 		real precop
 
-		escreva ("Qual sua idade?")
+		escreva ("Qual sua idade? ")
 		leia (idade)
 
 		se (idade <= 2) {
    			escreva("Tarifa gratuita!")
 		}
 		senao se (idade <= 12) {
-   			escreva("Pagará meia tarifa")
+   			escreva("Pagará meia tarifa.")
 		}
 		senao {
-   			escreva("Pagará a tarifa completa")
+   			escreva("Pagará a tarifa completa.")
 		}
 	}
 }
