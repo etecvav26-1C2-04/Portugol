@@ -4,7 +4,7 @@ Autores: Vitória Kishimoto e Sofia Franzini
 Descrição: Ler um número inteiro. Verificar e exibir se o número é primo.
 */
 
-#include <iostream>
+include <iostream>
 using namespace std;
 
 int main() {
