@@ -1,3 +1,9 @@
+/*
+Data: 05/05/2026
+Autores: Gabriela Onaga e Giovanna Costa
+Descrição:Ler vários números até que seja digitado um número negativo. Calcular e exibir a soma desses números.
+*/
+
 #include <iostream>
 using namespace std;
 
