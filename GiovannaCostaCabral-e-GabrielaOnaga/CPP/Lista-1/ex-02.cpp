@@ -1,6 +1,6 @@
 /*
 Data: 05/05/2026
-Autores: Vitória Kishimoto e Sofia Franzini
+Autores:Gabriela Onaga e Giovanna Costa 
 Descrição:Ler um número inteiro, calcular e exibir separadamente as potências de 2^0 até 2^(esse número).
 /* 
 
