@@ -6,7 +6,6 @@ dividir pela quantidade de pessoas.
 */
 
 #include <iostream>
-# define canal cout <<"Exercicio 7\n";
 
 using namespace std;
 
