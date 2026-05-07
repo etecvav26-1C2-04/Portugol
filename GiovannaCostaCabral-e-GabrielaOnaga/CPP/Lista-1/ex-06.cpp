@@ -6,13 +6,10 @@ parar quando a soma passar de 100; multiplicar todos os números lidos até esse
 */
 
 #include <iostream>
-# define canal cout <<"Exécicio 6\n";
 
 using namespace std;
 	
 int main(){
-
-	canal
 	
 	int numero;
 	int soma=0;
