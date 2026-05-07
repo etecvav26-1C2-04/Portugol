@@ -14,18 +14,18 @@ int main(){
 
 	canal
 	
-	int num;
+	int numero;
 	int soma=0;
 	long produto=1;
 	
 	while (soma <=100){
 			
 	cout << "Digite o número: ";
-	cin >> num;
+	cin >> numero;
 	
 	
-	soma += num;
-	produto*= num;
+	soma += numero;
+	produto*= numero;
 	
 	}
 	
