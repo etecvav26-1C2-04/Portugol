@@ -3,7 +3,6 @@ Data: 05/05/2026
 Autores: Gabriela Onaga e Giovanna Costa 
 Descrição: Ler vários números até que a soma desses números seja maior que 100. Exibir a multiplicação dos números lidos e
 parar quando a soma passar de 100; multiplicar todos os números lidos até esse ponto
-Data: 05/05/2026
 */
 
 #include <iostream>
