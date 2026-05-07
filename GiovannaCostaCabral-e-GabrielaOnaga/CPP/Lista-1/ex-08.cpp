@@ -7,13 +7,10 @@ soma dos pares; soma dos ímpares.
 */
 
 #include <iostream>
-# define canal cout <<"Exécicio 8\n";
 
 using namespace std;
 	
 int main(){
-
-	canal
 	
 	int numero, Par, Impar;
 	
